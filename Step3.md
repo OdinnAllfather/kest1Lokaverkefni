@@ -4,9 +4,12 @@ fyrst go to your server and open the terminal. Edit the /hostname file
 ```bash
 sudo nano /etc/hostname
 ```
+> remember to save and close with
+> Ctrl+o (save) Ctrl+x (exit)
+
 replace the curent name with *yourname.local*(replace yourname with desired name). It should now look something like this
 
-[hostname](hostname.png)
+<img title="hostname" width="500" src="hostname.png">
 
 Next edit the /hosts file.
 ```bash
@@ -14,4 +17,18 @@ sudo nano /etc/hosts
 ```
 replace the top 2 lines with
 ```
-ip 
+127.0.0.1 localServer
+127.0.0.1 server1.newname.local
+```
+<img title="hosts" width="500" src="hosts.png">
+
+then reboot with:
+```bash
+sudo reboot
+```
+
+### to test if everything works do
+```bash
+hostname
+```
+<img title="hostnameCheck" width="500" src="hostnameCheck.png">
