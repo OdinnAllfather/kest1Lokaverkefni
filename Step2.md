@@ -15,9 +15,8 @@ Next edit the /hosts file.
 ```bash
 sudo nano /etc/hosts
 ```
-replace the top 2 lines with
+modify line 2 to be
 ```
-127.0.0.1 localServer
 127.0.0.1 server1.newname.local
 ```
 <img title="hosts" width="500" src="hosts.png">
