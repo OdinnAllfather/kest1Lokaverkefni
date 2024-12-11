@@ -9,7 +9,7 @@ sudo nano /etc/hostname
 
 replace the curent name with *yourname.local*(replace yourname with desired name). It should now look something like this
 
-<img title="hostname" width="500" src="hostname.png">
+<img title="hostname" width="500" src="ImageFolder/hostname.png">
 
 Next edit the /hosts file.
 ```bash
@@ -19,7 +19,7 @@ modify line 2 to be
 ```
 127.0.0.1 server1.newname.local
 ```
-<img title="hosts" width="500" src="hosts.png">
+<img title="hosts" width="500" src="ImageFolder/hosts.png">
 
 then reboot with:
 ```bash
@@ -30,4 +30,4 @@ sudo reboot
 ```bash
 hostname
 ```
-<img title="hostnameCheck" width="500" src="hostnameCheck.png">
+<img title="hostnameCheck" width="500" src="ImageFolder/hostnameCheck.png">
