@@ -79,4 +79,4 @@ sudo ufw allow 80,443/tcp
 ```
 
 it should look like this
-<img tytle="demo site" width="700" src="ImageFile/demoSite.png">
+<img tytle="demo site" width="700" src="ImageFolder/demoSite.png">
