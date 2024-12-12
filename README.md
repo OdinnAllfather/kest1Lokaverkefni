@@ -28,3 +28,33 @@ kest1Lokaverkefni Óðinn Örn
 
 ## 6) Create (comma separated values) CSV file using the table above.
 [Step 6](Step6.md)
+
+<br>
+
+## 7) Create a bash script that will import all user accounts into their groups respectively.
+[Step 7](Step7.md)
+
+<br>
+
+## 8) All users should have access to their home directory only, except for the IT group they should have full access to all directories.
+[Step 8](Step8.md)
+
+<br>
+
+## 9) Install and configure Samba then create network shared folder for each department.
+[Step 9](Step9.md)
+
+<br>
+
+## 10) All users should have full access (Read, Write and Execute Permissions) to their shared Folder. However, IT and Management should full access to all shared Folders.
+[Step 10](Step10.md)
+
+<br>
+
+## 11) Install and configure SSH protocol, so IT and Management users have remote access to the server via SSH and test your configuration.
+[Step 11](Step11.md)
+
+<br>
+
+## 12) Install apache2 web server with SSL certificate and configure a demo site, the site should be accessible via the URL https://www.yourname.local
+[Step 12](Step12.md)
