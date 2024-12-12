@@ -65,7 +65,7 @@ edit this file
 sudo nano /etc/resolv.conf
 ```
 
-and add this
+and add this above nameserver 127.0.1.1
 ```
 nameserver 192.168.1.1
 ```
