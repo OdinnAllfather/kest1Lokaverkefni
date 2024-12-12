@@ -18,3 +18,8 @@ kest1Lokaverkefni Óðinn Örn
 
 ## 4) Install and configure DHCP protocol ( isc-dhcp-server) on server1, and make sure the Client1 gets an automatic IP Address, Default Gateway, Domain Name, and DNS automatically from DHCP on server1. 
 [Step 4](Step4.md)
+
+<br>
+
+## 5) Install and Configure DNS on server1 for the internal network so hostnames are resolved to IP addresses.
+[Step 5](Step5.md)
