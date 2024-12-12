@@ -13,3 +13,13 @@ sudo nano addUser.sh
 
 write this in the file(replace odiin with your name found with the whoami command)
 <image tytle="addUser.csv" width="700" src="ImageFolder/addUser.png">
+
+save and exit then type this command
+```
+sudo chmod +x addUser.sh
+```
+
+then execute addUser with this command
+```
+./addUser.sh
+```
