@@ -23,3 +23,8 @@ kest1Lokaverkefni Óðinn Örn
 
 ## 5) Install and Configure DNS on server1 for the internal network so hostnames are resolved to IP addresses.
 [Step 5](Step5.md)
+
+<br>
+
+## 6) Create (comma separated values) CSV file using the table above.
+[Step 6](Step6.md)
