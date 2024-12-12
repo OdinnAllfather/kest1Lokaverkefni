@@ -2,6 +2,6 @@
 
 to give Tölvudeild access to all home directories do the following commands
 ```
-sudo chgrp -R sharedgroup /home
+sudo chgrp -R Tolvudeild /home
 sudo chmod -R g+rx /home
 ```
